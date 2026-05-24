@@ -425,14 +425,6 @@ Al conectar el MacroPad al PC:
   
 ---
 
----
-
-# ❤️ Créditos
-
-Parte de la inspiración del proyecto, ideas base y algunos archivos STL fueron tomados y adaptados desde el proyecto original de Jason Giroux:
-
----
-
 # ❤️ Créditos
 
 Parte de la inspiración del proyecto, ideas base y algunos archivos STL fueron tomados y adaptados desde el proyecto original de Jason Giroux:
