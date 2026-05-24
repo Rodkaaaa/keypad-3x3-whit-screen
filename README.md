@@ -433,5 +433,3 @@ Parte de la inspiración del proyecto, ideas base y algunos archivos STL fueron 
 - https://jasongiroux.com/2023/07/16/macro-pad/
 
 Muchas gracias al proyecto original por compartir el diseño y la idea con la comunidad maker.
-
-Muchas gracias al proyecto original por compartir el diseño y la idea con la comunidad maker.  
