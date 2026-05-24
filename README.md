@@ -425,13 +425,11 @@ Al conectar el MacroPad al PC:
   
 ---
 
----
-
 # ❤️ Créditos
 
 Parte de la inspiración del proyecto, ideas base y algunos archivos STL fueron tomados y adaptados desde el proyecto original de Jason Giroux:
 
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
+- https://github.com/jaysongiroux/pico-macro-pad
+- https://jasongiroux.com/2023/07/16/macro-pad/
 
-Muchas gracias al proyecto original por compartir el diseño y la idea con la comunidad maker.  
+Muchas gracias al proyecto original por compartir el diseño y la idea con la comunidad maker.
